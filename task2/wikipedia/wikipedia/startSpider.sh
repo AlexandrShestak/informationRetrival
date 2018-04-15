@@ -1,0 +1,1 @@
+scrapy crawl wikipedia_spider -o scrapyResult.json
